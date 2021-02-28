@@ -1,0 +1,17 @@
+.head{
+}
+.image-tab{
+    text-align: center;
+}
+.image-tab img{
+    height :230px;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(250, 161, 101);
+}
+.cart-about{
+    margin: 0px 50px;
+    padding: 20px;
+    background-color: rgb(250, 161, 101) ;
+    border-radius: 10px;
+}

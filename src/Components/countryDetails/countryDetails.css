@@ -1,0 +1,18 @@
+.country-name-list {
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+    width: 30%;
+    
+}
+.countryDetails{
+    display:flex;
+}
+.country-about{
+    background-color: coral;
+    width:70%;
+}
+.country-scroll{
+    overflow: scroll;
+    height: 500px;
+}
